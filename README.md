@@ -1,2 +1,2 @@
-# mitrinh.github.io
-Portfolio
+# Portfolio
+[mitrinh.github.io](https://mitrinh.github.io/)
